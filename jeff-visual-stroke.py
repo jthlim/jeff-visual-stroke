@@ -83,5 +83,7 @@ def lookup(key):
     result.append(PRESSED_KEYS[2][3] if u != '' else UNPRESSED_KEYS[2][3])
     result.append(NEWLINE)
 
+    result.append('{^}{-|}')
+
     return "".join(result)
  
