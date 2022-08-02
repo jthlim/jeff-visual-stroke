@@ -18,3 +18,7 @@ Example: `STR*Z/KPAFRPL` produces:
 1. In plover, first install plover-python-dictionary
 2. Save jeff-visual-stroke.py from this repository
 3. Drag and drop the file into plover
+
+You may also be interested in:
+* [jeff-numbers](https://github.com/jthlim/jeff-numbers)
+* [jeff-modifiers](https://github.com/jthlim/jeff-modifiers)
