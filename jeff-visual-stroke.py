@@ -25,7 +25,7 @@ SPACE_PRE_STAR = " "
 SPACE_POST_STAR = " "
 SPACE_PRE_VOWELS = "　　　"
 SPACE_BETWEEN_VOWELS = " "
-NEWLINE = "\n"
+NEWLINE = "{^\n^}"
 
 def lookup(key):
     assert len(key) <= LONGEST_KEY, '%d/%d' % (len(key), LONGEST_KEY)
