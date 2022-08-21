@@ -22,3 +22,4 @@ Example: `STR*Z/KPAFRPL` produces:
 You may also be interested in:
 * [jeff-numbers](https://github.com/jthlim/jeff-numbers)
 * [jeff-modifiers](https://github.com/jthlim/jeff-modifiers)
+* [jeff-phrasing](https://github.com/jthlim/jeff-phrasing)
